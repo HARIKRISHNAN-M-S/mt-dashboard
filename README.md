@@ -1,5 +1,9 @@
 # React + Vite
 
+
+##To run this file   npm run dev
+
+##this is fully responsive dashboard  due to the time limit i couldn't add more functions 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
